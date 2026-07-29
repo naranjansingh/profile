@@ -106,8 +106,8 @@ final engineer = MobileCraftsperson(
 ## Recent Activity
 
 <!-- ACTIVITY:START -->
-- Refined **NaranjanSingh/NaranjanSingh** profile branding system on **2026-07-29**.
-- Latest pipeline run: `local`.
+- Refined **naranjansingh/profile** profile branding system on **2026-07-29**.
+- Latest pipeline run: `30427324547` • commit `c9b466a`.
 - Profile automation keeps activity, quotes, blog hooks, and snake assets fresh.
 <!-- ACTIVITY:END -->
 
