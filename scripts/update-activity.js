@@ -1,0 +1,12 @@
+const fs = require('fs');
+const path = 'README.md';
+const start = '<!-- ACTIVITY:START -->';
+const end = '<!-- ACTIVITY:END -->';
+const repo = process.env.GITHUB_REPOSITORY || 'NaranjanSingh/NaranjanSingh';
+const sha = (process.env.GITHUB_SHA || '').slice(0, 7);
+const run = process.env.GITHUB_RUN_ID || 'local';
+const now = new Date().toISOString().slice(0, 10);
+const block = `${start}\n- Refined **${repo}** profile branding system on **${now}**.\n- Latest pipeline run: \`${run}\`${sha ? ` • commit \`${sha}\`` : ''}.\n- Profile automation keeps activity, quotes, blog hooks, and snake assets fresh.\n${end}`;
+let readme = fs.readFileSync(path, 'utf8');
+readme = readme.replace(new RegExp(`${start}[\\s\\S]*?${end}`), block);
+fs.writeFileSync(path, readme);
