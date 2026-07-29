@@ -30,7 +30,7 @@
 
 > Flutter Engineer with **3+ years of experience** building scalable Android & iOS applications. Specialized in **Firebase**, **REST APIs**, **Clean Architecture**, real-time systems, payment integrations, and production deployments. Passionate about smooth user experiences and maintainable codebases.
 
-<!-- TECH STACK: categorized for fast reading -->
+<!-- TECH STACK: categorized for fast reading. Brand logos are resolved by scripts/fetch-official-icons.js with Devicon → Simple Icons → legal fallback order. -->
 ## Tech Stack
 
 <table>

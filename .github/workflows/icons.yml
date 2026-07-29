@@ -1,0 +1,19 @@
+name: Refresh Official SVG Icons
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 2 * * 0"
+permissions:
+  contents: write
+jobs:
+  icons:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node scripts/fetch-official-icons.js
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh official svg icons"
