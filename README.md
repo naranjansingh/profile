@@ -183,8 +183,8 @@ Client Features · App Architecture · Firebase Modules · Product Iteration
 ## Recent Activity
 
 <!-- ACTIVITY:START -->
-- Refined **naranjansingh/profile** profile branding system on **2026-07-30**.
-- Latest pipeline run: `30514422318` • commit `9f017ec`.
+- Refined **naranjansingh/profile** profile branding system on **2026-07-31**.
+- Latest pipeline run: `30605800494` • commit `bbeee22`.
 - Profile automation keeps activity, quotes, blog hooks, and snake assets fresh.
 <!-- ACTIVITY:END -->
 
@@ -201,7 +201,7 @@ Client Features · App Architecture · Firebase Modules · Product Iteration
 ## Engineering Quote
 
 <!-- QUOTE:START -->
-> “Simplicity is the ultimate sophistication.” — **Leonardo da Vinci**
+> “Make it work, make it right, make it fast.” — **Kent Beck**
 <!-- QUOTE:END -->
 
 <!-- FOOTER: custom animated SVG plus social destinations -->
