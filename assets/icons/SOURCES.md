@@ -4,18 +4,18 @@ Icons are resolved automatically in this order: **Devicon → Simple Icons → o
 
 | File | Source |
 |---|---|
-| `flutter.svg` | Brand-neutral local SVG fallback; no redistributable Devicon/Simple Icons/official brand SVG available. |
-| `dart.svg` | Brand-neutral local SVG fallback; no redistributable Devicon/Simple Icons/official brand SVG available. |
-| `firebase.svg` | Brand-neutral local SVG fallback; no redistributable Devicon/Simple Icons/official brand SVG available. |
-| `git.svg` | Brand-neutral local SVG fallback; no redistributable Devicon/Simple Icons/official brand SVG available. |
-| `github.svg` | Brand-neutral local SVG fallback; no redistributable Devicon/Simple Icons/official brand SVG available. |
-| `bitbucket.svg` | Brand-neutral local SVG fallback; no redistributable Devicon/Simple Icons/official brand SVG available. |
-| `android.svg` | Brand-neutral local SVG fallback; no redistributable Devicon/Simple Icons/official brand SVG available. |
-| `ios.svg` | Brand-neutral local SVG fallback; no redistributable Devicon/Simple Icons/official brand SVG available. |
-| `google-maps.svg` | Brand-neutral local SVG fallback; no redistributable Devicon/Simple Icons/official brand SVG available. |
+| `flutter.svg` | Devicon: https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg |
+| `dart.svg` | Devicon: https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg |
+| `firebase.svg` | Devicon: https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg |
+| `git.svg` | Devicon: https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg |
+| `github.svg` | Devicon: https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg |
+| `bitbucket.svg` | Devicon: https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg |
+| `android.svg` | Devicon: https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg |
+| `ios.svg` | Devicon: https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg |
+| `google-maps.svg` | Simple Icons: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlemaps.svg |
 | `onesignal.svg` | Brand-neutral local SVG fallback; no redistributable Devicon/Simple Icons/official brand SVG available. |
-| `razorpay.svg` | Brand-neutral local SVG fallback; no redistributable Devicon/Simple Icons/official brand SVG available. |
-| `cashfree.svg` | Brand-neutral local SVG fallback; no redistributable Devicon/Simple Icons/official brand SVG available. |
+| `razorpay.svg` | Simple Icons: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/razorpay.svg |
+| `cashfree.svg` | Simple Icons: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cashapp.svg |
 | `rest-api.svg` | Brand-neutral local SVG fallback; concept/state-management mark without Devicon/Simple Icons equivalent. |
 | `provider.svg` | Brand-neutral local SVG fallback; concept/state-management mark without Devicon/Simple Icons equivalent. |
 | `getx.svg` | Brand-neutral local SVG fallback; concept/state-management mark without Devicon/Simple Icons equivalent. |
