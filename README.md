@@ -183,8 +183,8 @@ Client Features · App Architecture · Firebase Modules · Product Iteration
 ## Recent Activity
 
 <!-- ACTIVITY:START -->
-- Refined **naranjansingh/profile** profile branding system on **2026-08-10**.
-- Latest pipeline run: `31352708616` • commit `1bb1410`.
+- Refined **naranjansingh/profile** profile branding system on **2026-08-11**.
+- Latest pipeline run: `31455152542` • commit `794dabc`.
 - Profile automation keeps activity, quotes, blog hooks, and snake assets fresh.
 <!-- ACTIVITY:END -->
 
@@ -201,7 +201,7 @@ Client Features · App Architecture · Firebase Modules · Product Iteration
 ## Engineering Quote
 
 <!-- QUOTE:START -->
-> “Great products feel obvious after they exist.” — **Product Engineering Principle**
+> “Simplicity is the ultimate sophistication.” — **Leonardo da Vinci**
 <!-- QUOTE:END -->
 
 <!-- FOOTER: custom animated SVG plus social destinations -->
