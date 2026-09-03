@@ -183,8 +183,8 @@ Client Features · App Architecture · Firebase Modules · Product Iteration
 ## Recent Activity
 
 <!-- ACTIVITY:START -->
-- Refined **naranjansingh/profile** profile branding system on **2026-09-02**.
-- Latest pipeline run: `33598409276` • commit `297922e`.
+- Refined **naranjansingh/profile** profile branding system on **2026-09-03**.
+- Latest pipeline run: `33722938321` • commit `87b8de9`.
 - Profile automation keeps activity, quotes, blog hooks, and snake assets fresh.
 <!-- ACTIVITY:END -->
 
@@ -201,7 +201,7 @@ Client Features · App Architecture · Firebase Modules · Product Iteration
 ## Engineering Quote
 
 <!-- QUOTE:START -->
-> “Programs must be written for people to read.” — **Harold Abelson**
+> “Great products feel obvious after they exist.” — **Product Engineering Principle**
 <!-- QUOTE:END -->
 
 <!-- FOOTER: custom animated SVG plus social destinations -->
