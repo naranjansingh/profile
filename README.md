@@ -183,8 +183,8 @@ Client Features · App Architecture · Firebase Modules · Product Iteration
 ## Recent Activity
 
 <!-- ACTIVITY:START -->
-- Refined **naranjansingh/profile** profile branding system on **2026-09-05**.
-- Latest pipeline run: `33949277729` • commit `497da60`.
+- Refined **naranjansingh/profile** profile branding system on **2026-09-06**.
+- Latest pipeline run: `34016485643` • commit `b784ab1`.
 - Profile automation keeps activity, quotes, blog hooks, and snake assets fresh.
 <!-- ACTIVITY:END -->
 
@@ -201,7 +201,7 @@ Client Features · App Architecture · Firebase Modules · Product Iteration
 ## Engineering Quote
 
 <!-- QUOTE:START -->
-> “Make it work, make it right, make it fast.” — **Kent Beck**
+> “Programs must be written for people to read.” — **Harold Abelson**
 <!-- QUOTE:END -->
 
 <!-- FOOTER: custom animated SVG plus social destinations -->
